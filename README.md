@@ -1,5 +1,6 @@
 # 向微信推送定时消息
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=331304578" height="90" width="1" align="right">](https://api.gitsponsors.com/api/badge/link?p=sbRWpuaBBlfqWSNupGjKd6DTHiu6/ZGJfwIRKotIhbWo82XmW6lCIOZMD1/fnfWYMgaYmV2ueGCRR7cjG+OiIPTHlfglZisNq0C/HpEHc78WbhDemSDcKZIhbXMsdSWSRYZJYLajvX8kK6gnbEuLNw==)
 [![](https://dockeri.co/image/hollowman6/send-message-to-wechat)](https://hub.docker.com/repository/docker/hollowman6/send-message-to-wechat)
 
 [![last-commit](https://img.shields.io/github/last-commit/HollowMan6/Wechat-Timed-Message)](https://github.com/HollowMan6/Wechat-Timed-Message/graphs/commit-activity)
